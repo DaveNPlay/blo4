@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Proceso del Software"
+title:  "Unidad 2 / Proceso del Software"
 date:   2019-03-23 21:03:36 +0530
-categories: Clases IntroduccionAlSoftware
+categories: Clases IntroduccionAlSoftware Unidad2
 ---
 <p>Conjunto de actividades necesarias para transformar las ideas iniciales del usuario, que desea automatizar un determinado trabajo, en software.</p>
 <h2>Modelos de proceso de Software</h2>  
