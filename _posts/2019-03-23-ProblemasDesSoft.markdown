@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Problemas en el desarrollo de Software"
-date:   2019-03-23 21:03:36 +0530
+date:   2019-12-01 21:13:44 +0530
 categories: Clases IntroduccionAlSoftware
 ---
  
