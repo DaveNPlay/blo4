@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crisis del Software"
-date:   2019-03-23 21:03:36 +0530
+date:   2019-12-01 21:13:39 +0530
 categories: Clases IntroduccionAlSoftware
 ---
 <h2>La Crisis del Software</h2>
