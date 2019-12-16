@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unidad 2 / Proceso del Software"
-date:   2019-03-23 21:03:36 +0530
+date:   2019-12-01 21:13:50 +0530
 categories: Clases IntroduccionAlSoftware Unidad2
 ---
 <p>Conjunto de actividades necesarias para transformar las ideas iniciales del usuario, que desea automatizar un determinado trabajo, en software.</p>
