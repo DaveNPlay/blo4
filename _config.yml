@@ -1,6 +1,6 @@
-title: Joyce Medina - Blog
-author: Joyce Medina
-email: joiscemedina@gmail.com
+title: Jean F. Blog
+author: Jean Franco
+email: jfintriagoineval@gmail.con
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,14 +19,14 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: Jonms28
-    github:  JoyceMedina
+    twitter: JeanIntriago7
+    github:  
     # linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
-    facebook: JoycemedinaS
+    facebook: jeanfranco.intriago
     # flickr:   jekyll
-    instagram: jnms.ns
+    instagram: 
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
